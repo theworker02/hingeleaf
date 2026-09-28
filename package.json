@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/hingeleaf",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hinge CSV/TSV leaf tables for quick inspection and cleanup.",
+  "bin": {
+    "hingeleaf": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/hingeleaf.git"
+  },
+  "homepage": "https://theworker02.github.io/hingeleaf/",
+  "keywords": [
+    "hinge",
+    "leaf",
+    "csv",
+    "cli",
+    "toolkit"
+  ]
+}
